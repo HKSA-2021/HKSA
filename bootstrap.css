@@ -2841,13 +2841,13 @@ fieldset:disabled a.btn {
 
 .btn-dark:hover {
   color: #fff;
-  background-color: #23272b;
+  background-color: #2c0a07;
   border-color: #1d2124;
 }
 
 .btn-dark:focus, .btn-dark.focus {
   color: #fff;
-  background-color: #23272b;
+  background-color: #2c0a07;
   border-color: #1d2124;
   box-shadow: 0 0 0 0.2rem rgba(82, 88, 93, 0.5);
 }
